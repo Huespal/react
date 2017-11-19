@@ -1,4 +1,4 @@
 {
   "app.containers.HomePage.header"    : "React playground",
-  "app.containers.ImmutableJS.header" : "ImmutableJS"
+  "app.container.ImmutableJS.header" : "ImmutableJS"
 }
