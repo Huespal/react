@@ -1,3 +1,11 @@
+# React playground
+
+Just a place to save my work after play with ReactJS to improve my skills.
+
+This project grows from [React boilerplate](https://github.com/react-boilerplate/react-boilerplate).
+
+## React boilerplate readme.
+
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />
